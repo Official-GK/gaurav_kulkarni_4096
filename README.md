@@ -21,6 +21,7 @@ Ensures contrast and readability
 Provides a fallback if a background image fails to load
 
 4. How did the background-image property change the visual appeal of your webpage?
+   
 The background image made the webpage look more visually engaging and attractive.
 It added a personal or thematic touch and helped improve the overall design.
 It makes the page feel less empty and more creative.
